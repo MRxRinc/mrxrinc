@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am a full stack mobile / web application developer with 8+ years of experience.
+
+You can reach me with magice word @mrxrinc anywhere in the social media :) .
 <!--
 **mrxrinc/mrxrinc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
